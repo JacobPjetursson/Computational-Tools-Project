@@ -1,0 +1,6 @@
+doc2vec*
+filters_full/*
+__pycache__/*
+__pycache__\*
+simple.model
+.idea
