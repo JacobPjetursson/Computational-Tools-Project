@@ -1,6 +1,7 @@
-This read-me contains two sets of instructions. 
+This read-me contains two sets of instructions.
 One is how to reproduce everything from scratch (model, filters, etc.). One is how to simply perform the plagiarism check.
-We recommend the first instruction set since the other one is very time consuming
+We recommend the first instruction set since the other one is very time consuming.
+Please make sure you have installed all the packages listed in the "required_packages.txt" file.
 
 Instructions on performing plagiarism check:
 	1) Decide if you want to check plagiarism for the full wikipedia or the simple wikipedia.
